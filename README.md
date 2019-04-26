@@ -1,2 +1,2 @@
 # Underwater-World-Simulation
-Shadergraph x HDRP
+Shadergraph x LDRP
